@@ -1,11 +1,12 @@
 import "./App.css";
+import Lottery from "./Lottery";
 
 import Ludoboard from "./Ludoboard";
 import Todolist from "./Todolist";
 
 function App() {
-  
-return <Todolist/>
+  return <Lottery/>
+// return <Todolist/>
 // return <Ludoboard/>
 }
 
